@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.navbar{
+  text-align: center;
+  
+}
+.navbar #A{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: peru;
+}
+figcaption{
+  text-align: center;
+  font-size: 12px;
+}
+
+#content{
+  text-align: center;
+  margin-right: 200px;
+  margin-left: 200px;
+  line-height: 20px;
+}
+
+#footer{
+ text-align: center;
+  float: left;
+  background-color: peru;
+ width: 25%;
+}
